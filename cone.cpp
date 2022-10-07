@@ -23,7 +23,7 @@ int main() {
     std::cin >> height;
 
     // process
-    volume = round(PI * pow(radius,2) * height / 3 * 100) / 100;
+    volume = round(PI * pow(radius, 2) * height / 3 * 100) / 100;
 
     // output
     std::cout
