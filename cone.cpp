@@ -17,9 +17,9 @@ int main() {
     // input
     std::cout << "The formula for the volume of a cone is V = πr²h÷3.";
     std::cout << std::endl;
-    std::cout << "Enter radius of the cone: ";
+    std::cout << "Enter radius of the cone (cm): ";
     std::cin >> radius;
-    std::cout << "Enter height of the cone: ";
+    std::cout << "Enter height of the cone (cm): ";
     std::cin >> height;
 
     // process
